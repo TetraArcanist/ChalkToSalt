@@ -1,0 +1,19 @@
+{
+  "Group": "TetraWorks",
+  "Name": "Chalk to Salt",
+  "Version": "1.0.0",
+  "Description": "Adds a recipe for Salt blocks So you can get actualyl get salt",
+  "Authors": [
+    {
+      "Name": "Tetra",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "SubPlugins": []
+}
