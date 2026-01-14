@@ -2,15 +2,15 @@
   "Group": "TetraWorks",
   "Name": "Chalk to Salt",
   "Version": "1.0.0",
-  "Description": "Adds a recipe for Salt blocks So you can get actualyl get salt",
+  "Description": "Adds a recipe for Salt blocks So you can get actually get salt",
   "Authors": [
     {
-      "Name": "Tetra",
+      "Name": "TetraArcanist",
       "Email": "",
-      "Url": ""
+      "Url": "https://www.curseforge.com/members/tetraarcanist/projects"
     }
   ],
-  "Website": "",
+  "Website": "https://github.com/TetraArcanist/ChalkToSalt",
   "Dependencies": {},
   "OptionalDependencies": {},
   "LoadBefore": {},
